@@ -1,9 +1,9 @@
-# Bill of Components for Magicdraw / Natia NoMagic
+# Bill of Components for Magicdraw / Catia NoMagic
 
 This model includes a customisation and scripts of for creating Bill of Components / Bill of Materials respecting inheritance and multiplicities. 
 
 
-![[bocTestmodel.png]]
+![model](https://github.com/amdx/magicdraw/blob/main/BoC/assets/bocTestmodel.png)
 
 The objective at hand is to obtain a precise count of the types used to type part properties in the structure decomposition of a SOI (System of Interest). This task requires careful consideration of various factors such as inheritance, redefinition, and upper bounds of multiplicities. It is important to note that unbound multiplicities are not respected, and we believe that they do not exist.
 
